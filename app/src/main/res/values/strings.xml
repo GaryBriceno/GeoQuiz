@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">Cali es la capital de Antioquia</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+</resources>
+
+
+
+
